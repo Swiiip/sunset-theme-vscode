@@ -17,11 +17,11 @@ All comments/improvements are welcome, `enjoy` !
 # Overview
 ![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/general.png)
 
-# Demo
-![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/demo.gif)
-
 # Sidebar
 ![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/sidebar.png)
 
 # Command palette
 ![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/ctrlp.png)
+
+# Demo
+![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/demo.gif)
