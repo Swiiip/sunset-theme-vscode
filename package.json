@@ -1,0 +1,32 @@
+{
+    "name": "b-and-y",
+    "displayName": "B&Y theme",
+    "description": "Black & Yellow theme for vscode",
+    "version": "0.0.1",
+    "publisher": "swiip",
+    "homepage": "https://github.com/Swiiip/b-and-y/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Swiiip/b-and-y.git"
+    },
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "icon": "./images/logo.svg",
+    "categories": [
+        "Themes"
+    ],
+    "galleryBanner": {
+        "color": "#5c2d91",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "B&Y",
+                "uiTheme": "vs-dark",
+                "path": "./themes/b-and-y-color-theme.json"
+            }
+        ]
+    }
+}
