@@ -15,13 +15,13 @@ In the following screens, I am using [Material Icons](https://marketplace.visual
 All comments/improvements are welcome, `enjoy` !
 
 # Overview
-![alt](images/general.png)
+![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/general.png)
 
 # Demo
-![alt](images/demo.gif)
+![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/demo.gif)
 
 # Sidebar
-![alt](images/sidebar.png)
+![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/sidebar.png)
 
 # Command palette
-![alt](images/ctrlp.png)
+![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/ctrlp.png)
