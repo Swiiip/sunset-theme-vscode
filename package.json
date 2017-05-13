@@ -4,7 +4,7 @@
     "description": "Black & Yellow theme for vscode",
     "version": "0.0.1",
     "publisher": "swiip",
-    "homepage": "https://github.com/Swiiip/b-and-y/README.md",
+    "homepage": "https://github.com/Swiiip/b-and-y.git",
     "repository": {
         "type": "git",
         "url": "https://github.com/Swiiip/b-and-y.git"
