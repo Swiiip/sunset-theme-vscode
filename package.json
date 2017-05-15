@@ -1,13 +1,13 @@
 {
-    "name": "b-and-y",
-    "displayName": "B&Y theme",
-    "description": "Black & Yellow theme for vscode",
-    "version": "0.1.0",
+    "name": "sunset-theme",
+    "displayName": "Sunset Theme",
+    "description": "Colorful theme with dark background",
+    "version": "0.3.0",
     "publisher": "swiip",
-    "homepage": "https://github.com/Swiiip/b-and-y.git",
+    "homepage": "https://github.com/Swiiip/sunset-theme-vscode.git",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Swiiip/b-and-y.git"
+        "url": "https://github.com/Swiiip/sunset-theme-vscode.git"
     },
     "engines": {
         "vscode": "^1.12.0"
@@ -17,15 +17,15 @@
         "Themes"
     ],
     "galleryBanner": {
-        "color": "#262327",
+        "color": "#ffffff",
         "theme": "dark"
     },
     "contributes": {
         "themes": [
             {
-                "label": "B&Y - Black & Yellow",
+                "label": "Sunset Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/b-and-y-color-theme.json"
+                "path": "./themes/sunset-theme.json"
             }
         ]
     }

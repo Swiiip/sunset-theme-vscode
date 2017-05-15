@@ -1,5 +1,5 @@
 {
-	"name": "B&Y - Black & Yellow theme",
+	"name": "Sunset Theme",
 	"type": "dark",
 	"colors": {
 		"foreground": "#fcfcf2",
@@ -354,7 +354,9 @@
 		{
 			"scope": [
 				"keyword.operator.sigil.rust",
-				"keyword.operator.address.go"
+				"keyword.operator.address.go",
+				"keyword.operator.type.annotation.ts",
+				"keyword.operator.misc.rust"
 			],
 			"settings": {
 				"foreground": "#F92672"
@@ -391,6 +393,7 @@
 			}
 		},
 		{
+			"name": "Parenthesis",
 			"scope": [
 				"punctuation.definition.parameters.begin.ts",
 				"punctuation.definition.parameters.end.ts",

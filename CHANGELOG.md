@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.3.0]
+Change name of the theme from "B&Y - Black & Yellow" to "Sunset theme"
+
 ## [0.2.0]
 - Changes base colors
 - Add scopes for languages:

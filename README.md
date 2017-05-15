@@ -8,7 +8,7 @@ This theme provides color customization for all the main components of vscode:
 * `panels`
 * `etc ...`
 
-In the following screens, I am using [Material Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) icon themes
+Following screens use [Material Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) icon theme
 
 [Github repository](https://github.com/Swiiip/b-and-y.git)
 
