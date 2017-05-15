@@ -1,4 +1,4 @@
-# B&Y - Black & Yellow theme
+# Sunset Theme
 
 This theme provides color customization for all the main components of vscode:
 * `editor`
@@ -10,27 +10,27 @@ This theme provides color customization for all the main components of vscode:
 
 Following screens use [Material Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) icon theme
 
-[Github repository](https://github.com/Swiiip/b-and-y.git)
+[Github repository](https://github.com/Swiiip/sunset-theme-vscode.git)
 
-All comments/improvements are welcome, `enjoy` !
+All comments/improvements are welcome !
 
 # Overview
-![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/general.png)
+![alt](https://raw.githubusercontent.com/Swiiip/sunset-theme-vscode/master/images/general.png)
 
 # Languages
 ## Python
-![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/python.png)
+![alt](https://raw.githubusercontent.com/Swiiip/sunset-theme-vscode/master/images/python.png)
 ## C-Sharp
-![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/csharp.png)
+![alt](https://raw.githubusercontent.com/Swiiip/sunset-theme-vscode/master/images/csharp.png)
 ## Go
-![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/go.png)
+![alt](https://raw.githubusercontent.com/Swiiip/sunset-theme-vscode/master/images/go.png)
 ## Rust
-![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/rust.png)
+![alt](https://raw.githubusercontent.com/Swiiip/sunset-theme-vscode/master/images/rust.png)
 ## Typescript
-![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/typescript.png)
+![alt](https://raw.githubusercontent.com/Swiiip/sunset-theme-vscode/master/images/typescript.png)
 
 # Command palette
-![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/ctrlp.png)
+![alt](https://raw.githubusercontent.com/Swiiip/sunset-theme-vscode/master/images/ctrlp.png)
 
 # Sidebar
-![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/sidebar.png)
+![alt](https://raw.githubusercontent.com/Swiiip/sunset-theme-vscode/master/images/sidebar.png)
