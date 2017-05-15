@@ -1,5 +1,5 @@
 {
-	"name": "B&Y - Black & Yellow theme",
+	"name": "B&Y - Black & eac66c theme",
 	"type": "dark",
 	"colors": {
 		"foreground": "#fcfcf2",
@@ -413,7 +413,7 @@
 				"support.constant.handlebars"
 			],
 			"settings": {
-				"foreground": "#9bb46e"
+				"foreground": "#eac66c"
 			}
 		},
 		{
@@ -444,7 +444,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#eac66c"
+				"foreground": "#9bb46e"
 			}
 		},
 		{
@@ -458,7 +458,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#eac66c"
+				"foreground": "#9bb46e"
 			}
 		},
 		{
