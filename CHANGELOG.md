@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.3.0]
+## [0.4.0]
 Change name of the theme from "B&Y - Black & Yellow" to "Sunset theme"
 
 ## [0.2.0]
