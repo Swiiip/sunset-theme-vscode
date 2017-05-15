@@ -17,11 +17,20 @@ All comments/improvements are welcome, `enjoy` !
 # Overview
 ![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/general.png)
 
-# Sidebar
-![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/sidebar.png)
+# Languages
+## Python
+![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/python.png)
+## C-Sharp
+![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/csharp.png)
+## Go
+![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/go.png)
+## Rust
+![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/rust.png)
+## Typescript
+![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/typescript.png)
 
 # Command palette
 ![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/ctrlp.png)
 
-# Demo
-![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/demo.gif)
+# Sidebar
+![alt](https://raw.githubusercontent.com/Swiiip/b-and-y/master/images/sidebar.png)
