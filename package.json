@@ -17,7 +17,7 @@
         "Themes"
     ],
     "galleryBanner": {
-        "color": "#ffffff",
+        "color": "#0c090d",
         "theme": "dark"
     },
     "contributes": {
