@@ -313,8 +313,7 @@
 				"punctuation.definition.template-expression.begin.js",
 				"punctuation.definition.template-expression.begin.ts",
 				"punctuation.definition.template-expression.end.ts",
-				"punctuation.definition.template-expression.end.js",
-				"storage.type.class.ts"
+				"punctuation.definition.template-expression.end.js"
 			],
 			"settings": {
 				"foreground": "#eac66c"
@@ -355,7 +354,6 @@
 			"scope": [
 				"keyword.operator.sigil.rust",
 				"keyword.operator.address.go",
-				"keyword.operator.type.annotation.ts",
 				"keyword.operator.misc.rust"
 			],
 			"settings": {
@@ -408,11 +406,26 @@
 				"punctuation.definition.parameters.end.python",
 				"punctuation.definition.arguments.begin.python",
 				"punctuation.definition.arguments.end.python",
+				"punctuation.definition.parameters.begin.js",
+				"punctuation.definition.parameters.end.js",
 				"punctuation.other.bracket.round.go",
 				"meta.brace.round.js"
 			],
 			"settings": {
 				"foreground": "#F92672"
+			}
+		},
+		{
+			"name": "Function type",
+			"scope": [
+				"storage.type.function.js",
+				"storage.type.function.python",
+				"keyword.function.go",
+				"keyword.control.def.ruby"
+			],
+			"settings": {
+				"foreground": "#9CDCFE",
+				"fontStyle": "bold italic"
 			}
 		},
 		{
@@ -458,7 +471,8 @@
 				"meta.function-call.generic.python"
 			],
 			"settings": {
-				"foreground": "#9bb46e"
+				"foreground": "#9bb46e",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -467,12 +481,12 @@
 				"meta.return-type",
 				"support.class",
 				"support.type",
-				"entity.name.type",
 				"entity.name.class",
 				"storage.type.cs",
 				"storage.type.generic.cs",
 				"storage.type.modifier.cs",
 				"storage.type.variable.cs",
+				"keyword.operator.type.annotation.ts",
 				"storage.type.annotation.java",
 				"storage.type.generic.java",
 				"storage.type.java",
@@ -493,14 +507,28 @@
 			}
 		},
 		{
+			"name": "Class definitions",
+			"scope": ["entity.name.type"],
+			"settings": {
+				"foreground": "#ffbd14"
+			}
+		},
+		{
+			"name": "Inherited classes",
+			"scope": ["entity.other.inherited-class"],
+			"settings": {
+				"foreground": "#ffbd14",
+				"fontStyle":"italic"
+			}
+		},
+		{
 			"name": "Types declaration and references, TS grammar specific",
 			"scope": [
 				"meta.type.cast.expr",
 				"meta.type.new.expr",
 				"support.constant.math",
 				"support.constant.dom",
-				"support.constant.json",
-				"entity.other.inherited-class"
+				"support.constant.json"
 			],
 			"settings": {
 				"foreground": "#9bb46e"
