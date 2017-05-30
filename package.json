@@ -1,32 +1,37 @@
 {
-    "name": "sunset-theme",
-    "displayName": "Sunset Theme",
-    "description": "Colorful theme with dark background",
-    "version": "0.5.0",
-    "publisher": "swiip",
-    "homepage": "https://github.com/Swiiip/sunset-theme-vscode.git",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Swiiip/sunset-theme-vscode.git"
-    },
-    "engines": {
-        "vscode": "^1.12.0"
-    },
-    "icon": "images/logo.png",
-    "categories": [
-        "Themes"
-    ],
-    "galleryBanner": {
-        "color": "#0c090d",
-        "theme": "dark"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Sunset Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/sunset-theme.json"
-            }
-        ]
-    }
+ "name": "sunset-theme",
+ "displayName": "Sunset Theme",
+ "description": "Colorful theme with dark background",
+ "version": "0.6.0",
+ "publisher": "swiip",
+ "homepage": "https://github.com/Swiiip/sunset-theme-vscode.git",
+ "repository": {
+  "type": "git",
+  "url": "https://github.com/Swiiip/sunset-theme-vscode.git"
+ },
+ "engines": {
+  "vscode": "^1.12.0"
+ },
+ "icon": "images/logo.png",
+ "categories": [
+  "Themes"
+ ],
+ "galleryBanner": {
+  "color": "#0c090d",
+  "theme": "dark"
+ },
+ "contributes": {
+  "themes": [
+   {
+    "label": "Sunset Theme",
+    "uiTheme": "vs-dark",
+    "path": "./themes/sunset-theme.json"
+   }
+  ]
+ },
+ "__metadata": {
+  "id": "516c9b5b-a4bb-45f8-bcd3-96fea0bec771",
+  "publisherId": "8c1113bd-207e-4ffe-b858-6d7303aa8161",
+  "publisherDisplayName": "Hugo Duthil"
+ }
 }
