@@ -1,13 +1,17 @@
 # Change Log
+
+## [0.6.1]
+- Update notification colors
+
 ## [0.6.0]
-Add more themable parts described here:
+- Add more themable parts described here:
 https://github.com/Microsoft/vscode-docs/blob/vnext/release-notes/v1_13.md#theming
 
 ## [0.5.0]
-Minor improvements
+- Minor improvements
 
 ## [0.4.0]
-Change name of the theme from "B&Y - Black & Yellow" to "Sunset theme"
+- Change name of the theme from "B&Y - Black & Yellow" to "Sunset theme"
 
 ## [0.2.0]
 - Changes base colors
