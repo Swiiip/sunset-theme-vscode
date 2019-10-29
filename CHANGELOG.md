@@ -1,5 +1,15 @@
 # Change Log
 
+## [0.7.0]
+- Add colors for new APIs:
+    * inputValidation.errorBorder
+    * textLink.foreground
+    * foreground.activeForeground
+    * activityBar.inactiveForeground
+    * notifications.background
+    * notificationLink.foreground
+    * notificationsErrorIcon.foreground
+
 ## [0.6.1]
 - Update notification colors
 
