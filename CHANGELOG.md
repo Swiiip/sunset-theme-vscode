@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.7.0]
+## [0.9.1]
 - Add colors for new APIs:
     * inputValidation.errorBorder
     * textLink.foreground
