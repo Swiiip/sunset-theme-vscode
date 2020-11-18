@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.9.3]
+- Change quickInput background color to add contrast in the palette widget
+
 ## [0.9.2]
 - Fix package.json publisher name
 
