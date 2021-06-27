@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.9.4]
+- Add border color for active tab [@rahatbd]
+- Add contrast for matched elements in higlighted list entry
+
 ## [0.9.3]
 - Change quickInput background color to add contrast in the palette widget
 
