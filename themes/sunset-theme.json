@@ -49,7 +49,7 @@
         "list.focusBackground": "#262327",
         "list.focusForeground": "#ffbd14",
         "list.highlightForeground": "#ffbd14",
-	"list.focusHighlightForeground": "#121110",
+        "list.focusHighlightForeground": "#121110",
         "list.hoverBackground": "#262327",
         "list.inactiveSelectionBackground": "#ffbd1430",
         "list.inactiveSelectionForeground": "#fcfcf2",
@@ -92,6 +92,7 @@
         "tab.activeBackground": "#121110",
         "tab.activeBorderTop": "#ffbd14",
         "tab.inactiveBackground": "#121110",
+        "terminal.tab.activeBorder": "#ffbd14",
         "textLink.activeForeground": "#ffbd14",
         "textLink.foreground": "#ffbd14",
         "titleBar.activeBackground": "#121110"
