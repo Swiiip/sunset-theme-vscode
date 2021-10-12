@@ -1,4 +1,9 @@
 # Change Log
+## [0.9.5]
+- Add colors for new API:
+    * editorSuggestWidget.focusHighlightForeground
+    * editorSuggestWidget.selectedForeground
+    * editorSuggestWidget.selectedIconForeground
 
 ## [0.9.4]
 - Add border color for active tab [@rahatbd]
